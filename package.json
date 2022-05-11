@@ -1,0 +1,15 @@
+{
+  "name": "scraping_sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/makotoomori/scraping_sample.git",
+  "author": "makoto omori <makoto@loftwork.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
